@@ -3,6 +3,6 @@
 #include<conio.h>
 main()
 int c,f;
-scanf("%d",&centirade);
+scanf("%d",&c);
 f=(1.8*c)+32;
 printf("conversion to farenhit %d",f);
