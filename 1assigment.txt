@@ -1,0 +1,11 @@
+/sum of two numbers/
+#include<stidio.h>
+#include<conio.h>
+main()
+int a,b,c;
+printf("enter the inputs");
+scanf("%d",&a);
+scanf("%d",&b);
+c=a+b;
+printf("sum of two number is: %d",c);
+
