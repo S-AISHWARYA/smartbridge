@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+int a;
+printf("enter the nnumber");
+scanf("%d",&a);
+if(a%2==0)
+{
+printf("a is the even number");
+}
+else
+{
+printf("a is the odd number");
+}
+}
