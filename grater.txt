@@ -1,0 +1,19 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+int x,y,z;
+scanf("%d %d %d",&x,&y,&z);
+if(x<y)
+{ 
+if(y<z)
+{
+printf("z is greater than xny");
+}
+}
+else
+{
+printf("x is greater than zny");
+}
+
+

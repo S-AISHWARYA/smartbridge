@@ -1,0 +1,8 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+int a;
+scanf("%d",&a);
+printf("printing the intger in the inter,hexadecimal,octal,character: %d,%x,%o,%c");
+ }
